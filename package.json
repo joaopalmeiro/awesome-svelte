@@ -1,0 +1,20 @@
+{
+  "name": "awesome-svelte",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Resources leveraging and to leverage the Svelte ecosystem.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopalmeiro/awesome-svelte.git"
+  },
+  "author": {
+    "name": "João Palmeiro",
+    "email": "jm.palmeiro@campus.fct.unl.pt",
+    "url": "https://joaopalmeiro.github.io/"
+  },
+  "bugs": {
+    "url": "https://github.com/joaopalmeiro/awesome-svelte/issues",
+    "email": "jm.palmeiro@campus.fct.unl.pt"
+  },
+  "homepage": "https://github.com/joaopalmeiro/awesome-svelte#readme"
+}

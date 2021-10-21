@@ -11,3 +11,6 @@
 ## Official
 
 - [Svelte documentation](https://svelte.dev/docs)
+- [Svelte tutorial](https://svelte.dev/tutorial)
+- [Svelte GitHub organization](https://github.com/sveltejs)
+- [SvelteKit website](https://kit.svelte.dev/)
