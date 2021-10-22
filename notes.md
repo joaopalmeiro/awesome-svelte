@@ -18,3 +18,7 @@
     - [Render](https://render.com/) for hosting:
       - It supports pnpm.
       - [Deploy a Svelte Static Site](https://render.com/docs/deploy-svelte) page and [project template](https://github.com/render-examples/svelte).
+
+## References
+
+- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs).
